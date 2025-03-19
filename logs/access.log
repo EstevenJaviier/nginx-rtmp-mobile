@@ -1,0 +1,356 @@
+127.0.0.1 - - [22/Feb/2025:22:56:25 -0500] "GET /stat HTTP/1.1" 200 534 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:22:56:25 -0500] "GET /stat.xsl HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:22:56:26 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:22:56:27 -0500] "GET /stat HTTP/1.1" 200 535 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:22:56:27 -0500] "GET /stat.xsl HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:22:56:57 -0500] "GET /stat HTTP/1.1" 200 535 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:22:56:57 -0500] "GET /stat.xsl HTTP/1.1" 200 11765 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:01:46 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:01:47 -0500] "GET /stat HTTP/1.1" 200 535 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:01:47 -0500] "GET /stat.xsl HTTP/1.1" 304 0 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.52 [22/Feb/2025:23:19:48 -0500] PUBLISH "live" "gopro" "" - 16755581 445 "" "" (44s)
+127.0.0.1 [22/Feb/2025:23:26:50 -0500] PLAY "live" "gopro" "" - 489 317897 "" "LNX 9,0,124,2" (35s)
+127.0.0.1 [22/Feb/2025:23:26:54 -0500] PLAY "live" "gopro" "" - 378 2114716 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:27:04 -0500] PLAY "live" "gopro" "" - 378 2008076 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:27:14 -0500] PLAY "live" "gopro" "" - 378 2002344 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:27:24 -0500] PLAY "live" "gopro" "" - 378 1981931 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:27:34 -0500] PLAY "live" "gopro" "" - 378 1978804 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:27:44 -0500] PLAY "live" "gopro" "" - 378 2015557 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:27:48 -0500] PLAY "live" "gopro" "" - 378 1999879 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:27:54 -0500] PLAY "live" "gopro" "" - 378 1973877 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:28:04 -0500] PLAY "live" "gopro" "" - 378 1989225 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:28:14 -0500] PLAY "live" "gopro" "" - 378 1975498 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:28:24 -0500] PLAY "live" "gopro" "" - 378 1997731 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:28:34 -0500] PLAY "live" "gopro" "" - 378 1978541 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:28:44 -0500] PLAY "live" "gopro" "" - 378 1931353 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:28:54 -0500] PLAY "live" "gopro" "" - 378 1958121 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:29:04 -0500] PLAY "live" "gopro" "" - 378 1959224 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:29:14 -0500] PLAY "live" "gopro" "" - 378 1955673 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:29:25 -0500] PLAY "live" "gopro" "" - 378 1987358 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:29:35 -0500] PLAY "live" "gopro" "" - 378 1978525 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:29:37 -0500] PLAY "live" "gopro" "" - 456 13502828 "" "LNX 9,0,124,2" (30s)
+127.0.0.1 [22/Feb/2025:23:29:45 -0500] PLAY "live" "gopro" "" - 378 1973330 "" "LNX 9,0,124,2" (4s)
+192.168.1.52 [22/Feb/2025:23:29:50 -0500] PUBLISH "live" "gopro" "" - 81336427 409 "" "" (3m 1s)
+127.0.0.1 [22/Feb/2025:23:31:06 -0500] PLAY "live" "gopro" "" - 594 2307259 "" "LNX 9,0,124,2" (1m 21s)
+192.168.1.52 [22/Feb/2025:23:31:52 -0500] PUBLISH "live" "gopro" "" - 18734396 427 "" "" (45s)
+127.0.0.1 [22/Feb/2025:23:31:52 -0500] PLAY "live" "gopro" "" - 430 18162885 "" "LNX 9,0,124,2" (44s)
+127.0.0.1 [22/Feb/2025:23:32:39 -0500] PLAY "live" "gopro" "" - 583 15525781 "" "LNX 9,0,124,2" (1m 26s)
+127.0.0.1 [22/Feb/2025:23:33:08 -0500] PLAY "live" "gopro" "" - 440 9999429 "" "LNX 9,0,124,2" (26s)
+192.168.1.52 [22/Feb/2025:23:33:47 -0500] PUBLISH "live" "gopro" "" - 24538540 409 "" "" (1m 8s)
+127.0.0.1 [22/Feb/2025:23:33:47 -0500] PLAY "live" "gopro" "" - 461 24048222 "" "LNX 9,0,124,2" (1m 7s)
+127.0.0.1 - - [22/Feb/2025:23:33:48 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:33:49 -0500] "GET /stat HTTP/1.1" 200 1003 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:33:49 -0500] "GET /stat.xsl HTTP/1.1" 304 0 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:33:50 -0500] "GET /stat HTTP/1.1" 200 1003 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:33:51 -0500] "GET /stat HTTP/1.1" 200 1003 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:33:53 -0500] "GET /stat HTTP/1.1" 200 1003 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 [22/Feb/2025:23:34:07 -0500] PLAY "live" "gopro" "" - 438 4325837 "" "LNX 9,0,124,2" (35s)
+127.0.0.1 - - [22/Feb/2025:23:34:50 -0500] "GET /stat HTTP/1.1" 200 1667 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:34:52 -0500] "GET /stat HTTP/1.1" 200 1668 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 [22/Feb/2025:23:35:25 -0500] PLAY "live" "gopro" "" - 535 18385690 "" "LNX 9,0,124,2" (1m 15s)
+127.0.0.1 - - [22/Feb/2025:23:36:28 -0500] "GET /stat HTTP/1.1" 200 534 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 [22/Feb/2025:23:36:53 -0500] PLAY "live" "gopro" "" - 412 526 "" "LNX 9,0,124,2" (20s)
+192.168.1.52 [22/Feb/2025:23:43:57 -0500] PUBLISH "live" "gopro" "" - 214978466 529 "" "" (9m 20s)
+127.0.0.1 [22/Feb/2025:23:43:57 -0500] PLAY "live" "gopro" "" - 1043 212886803 "" "LNX 9,0,124,2" (9m 19s)
+127.0.0.1 [22/Feb/2025:23:44:12 -0500] PLAY "live" "gopro" "" - 517 1709263 "" "LNX 9,0,124,2" (52s)
+127.0.0.1 [22/Feb/2025:23:44:23 -0500] PLAY "live" "gopro" "" - 378 1776973 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [22/Feb/2025:23:44:29 -0500] PLAY "live" "gopro" "" - 370 62955 "" "LNX 9,0,124,2" (0s)
+127.0.0.1 [22/Feb/2025:23:45:08 -0500] PLAY "live" "gopro" "" - 370 4011770 "" "LNX 9,0,124,2" (15s)
+192.168.1.52 [22/Feb/2025:23:45:20 -0500] PUBLISH "live" "gopro" "" - 26519842 427 "" "" (1m 12s)
+127.0.0.1 [22/Feb/2025:23:46:09 -0500] PLAY "live" "gopro" "" - 468 3987906 "" "LNX 9,0,124,2" (47s)
+127.0.0.1 - - [22/Feb/2025:23:46:26 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:46:28 -0500] "GET /stat HTTP/1.1" 200 1479 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:46:29 -0500] "GET /stat.xsl HTTP/1.1" 304 0 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 [22/Feb/2025:23:46:30 -0500] PLAY "live" "gopro" "" - 370 3975967 "" "LNX 9,0,124,2" (15s)
+127.0.0.1 - - [22/Feb/2025:23:46:30 -0500] "GET /stat HTTP/1.1" 200 1293 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:46:32 -0500] "GET /stat HTTP/1.1" 200 1292 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:46:33 -0500] "GET /stat HTTP/1.1" 200 1292 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:46:34 -0500] "GET /stat HTTP/1.1" 200 1293 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:46:35 -0500] "GET /stat HTTP/1.1" 200 1292 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:46:39 -0500] "GET /stat HTTP/1.1" 200 1286 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:46:40 -0500] "GET /stat HTTP/1.1" 200 1285 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 [22/Feb/2025:23:46:50 -0500] PLAY "live" "gopro" "" - 370 2404765 "" "LNX 9,0,124,2" (6s)
+127.0.0.1 [22/Feb/2025:23:49:11 -0500] PLAY "live" "gopro" "" - 370 4016570 "" "LNX 9,0,124,2" (15s)
+127.0.0.1 - - [22/Feb/2025:23:49:15 -0500] "GET /stat HTTP/1.1" 200 1298 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 [22/Feb/2025:23:49:52 -0500] PLAY "live" "gopro" "" - 440 9795892 "" "LNX 9,0,124,2" (26s)
+127.0.0.1 [22/Feb/2025:23:50:01 -0500] PLAY "live" "gopro" "" - 412 1371925 "" "LNX 9,0,124,2" (3s)
+127.0.0.1 [22/Feb/2025:23:50:21 -0500] PLAY "live" "gopro" "" - 432 5735489 "" "LNX 9,0,124,2" (15s)
+127.0.0.1 - - [22/Feb/2025:23:51:50 -0500] "GET /stat HTTP/1.1" 200 535 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:51:51 -0500] "GET /stat.xsl HTTP/1.1" 304 0 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:51:52 -0500] "GET /stat HTTP/1.1" 200 535 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:51:54 -0500] "GET /stat HTTP/1.1" 200 535 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:51:55 -0500] "GET /stat HTTP/1.1" 200 535 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [22/Feb/2025:23:51:58 -0500] "GET /stat HTTP/1.1" 200 535 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.52 [22/Feb/2025:23:52:04 -0500] PUBLISH "live" "gopro" "" - 144867314 529 "" "" (6m 17s)
+127.0.0.1 [22/Feb/2025:23:59:37 -0500] PLAY "live" "gopro" "" - 1283 33468195 "" "LNX 9,0,124,2" (9m 4s)
+127.0.0.1 [23/Feb/2025:09:15:10 -0500] PLAY "live" "gopro" "" - 656 21842415 "" "LNX 9,0,124,2" (2m 13s)
+127.0.0.1 [23/Feb/2025:09:15:17 -0500] PLAY "live" "gopro" "" - 378 2342393 "" "LNX 9,0,124,2" (3s)
+127.0.0.1 [23/Feb/2025:09:15:28 -0500] PLAY "live" "gopro" "" - 378 2375721 "" "LNX 9,0,124,2" (4s)
+127.0.0.1 [23/Feb/2025:09:15:31 -0500] PUBLISH "live" "gopro" "" - 37655661 409 "" "FMLE/3.0 (compatible; IRLPRO/nu" (1m 2s)
+127.0.0.1 [23/Feb/2025:10:56:03 -0500] PUBLISH "live" "gopro" "" - 91818622 409 "" "FMLE/3.0 (compatible; IRLPRO/nu" (1m 46s)
+192.168.1.177 [23/Feb/2025:18:28:45 -0500] PUBLISH "live" "gopro" "" - 491677682 427 "" "" (21m 15s)
+127.0.0.1 - - [23/Feb/2025:20:32:10 -0500] "GET /stat HTTP/1.1" 200 535 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [23/Feb/2025:20:32:10 -0500] "GET /stat.xsl HTTP/1.1" 304 0 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [23/Feb/2025:20:32:11 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [24/Feb/2025:09:50:10 -0500] "GET /stat HTTP/1.1" 200 1270 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [24/Feb/2025:09:50:11 -0500] "GET /stat.xsl HTTP/1.1" 304 0 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [24/Feb/2025:09:50:11 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [24/Feb/2025:09:50:13 -0500] "GET /stat HTTP/1.1" 200 1269 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.52 [24/Feb/2025:09:50:57 -0500] PUBLISH "live" "gopro" "" - 35379075 529 "" "" (1m 35s)
+127.0.0.1 - - [24/Feb/2025:09:51:40 -0500] "GET /stat HTTP/1.1" 200 1268 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [24/Feb/2025:09:51:48 -0500] "GET /stat HTTP/1.1" 200 1270 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [24/Feb/2025:09:51:54 -0500] "GET /stat HTTP/1.1" 200 1270 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [24/Feb/2025:09:52:29 -0500] "GET /stat HTTP/1.1" 200 1269 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [24/Feb/2025:09:53:43 -0500] "GET /stat HTTP/1.1" 200 1467 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [24/Feb/2025:09:53:45 -0500] "GET /stat HTTP/1.1" 200 1465 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.52 [24/Feb/2025:10:03:40 -0500] PUBLISH "live" "gopro" "" - 230862286 427 "" "" (10m 0s)
+192.168.1.52 [24/Feb/2025:10:04:59 -0500] PUBLISH "live" "gopro" "" - 7068376 529 "" "" (22s)
+192.168.1.52 [24/Feb/2025:18:37:07 -0500] PUBLISH "live" "gopro" "" - 6301273 529 "" "" (19s)
+192.168.1.52 [24/Feb/2025:19:02:27 -0500] PUBLISH "live" "gopro" "" - 31889207 529 "" "" (1m 26s)
+192.168.1.177 [24/Feb/2025:20:23:38 -0500] PUBLISH "live" "gopro" "" - 1009458098 529 "" "" (43m 36s)
+127.0.0.1 [26/Feb/2025:19:12:26 -0500] PUBLISH "live" "gopro" "" - 68606346 409 "" "FMLE/3.0 (compatible; IRLPRO/nu" (1m 23s)
+127.0.0.1 - - [26/Feb/2025:19:13:02 -0500] "GET /stat HTTP/1.1" 200 1318 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [26/Feb/2025:19:13:03 -0500] "GET /stat.xsl HTTP/1.1" 304 0 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [26/Feb/2025:19:13:04 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 [26/Feb/2025:19:13:20 -0500] PUBLISH "live" "gopro" "" - 42023263 409 "" "FMLE/3.0 (compatible; IRLPRO/nu" (52s)
+127.0.0.1 - - [26/Feb/2025:19:16:48 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [26/Feb/2025:19:17:01 -0500] "GET /stat HTTP/1.1" 200 535 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [26/Feb/2025:19:21:31 -0500] "GET /stat HTTP/1.1" 200 1521 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [26/Feb/2025:19:24:56 -0500] PUBLISH "live" "gopro" "" - 74246928 427 "" "" (3m 36s)
+127.0.0.1 - - [26/Feb/2025:19:28:33 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [26/Feb/2025:19:35:09 -0500] PUBLISH "live" "gopro" "" - 78623987 409 "" "" (3m 53s)
+192.168.1.177 [26/Feb/2025:19:41:48 -0500] PUBLISH "live" "gopro" "" - 134408290 529 "" "" (6m 29s)
+192.168.1.177 [26/Feb/2025:21:31:57 -0500] PUBLISH "live" "gopro" "" - 652197348 427 "" "" (31m 13s)
+192.168.1.52 [28/Feb/2025:08:01:45 -0500] PUBLISH "live" "gopro" "" - 22820351 445 "" "" (1m 4s)
+127.0.0.1 - - [28/Feb/2025:08:06:10 -0500] "GET /stat HTTP/1.1" 200 1523 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [28/Feb/2025:08:06:10 -0500] "GET /stat.xsl HTTP/1.1" 200 11765 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [28/Feb/2025:08:06:11 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.52 [28/Feb/2025:08:07:19 -0500] PUBLISH "live" "gopro" "" - 40808980 529 "" "" (1m 49s)
+192.168.1.52 [28/Feb/2025:08:11:18 -0500] PUBLISH "live" "gopro" "" - 76881842 529 "" "" (3m 23s)
+192.168.1.52 [28/Feb/2025:08:13:02 -0500] PUBLISH "live" "gopro" "" - 6314665 529 "" "" (20s)
+192.168.1.52 [28/Feb/2025:08:15:50 -0500] PUBLISH "live" "gopro" "" - 40150753 529 "" "" (1m 47s)
+192.168.1.52 [28/Feb/2025:08:31:56 -0500] PUBLISH "live" "gopro" "" - 38965385 427 "" "" (1m 48s)
+192.168.1.52 [28/Feb/2025:14:01:20 -0500] PUBLISH "live" "gopro" "" - 26688417 529 "" "" (1m 13s)
+127.0.0.1 - - [28/Feb/2025:14:23:35 -0500] "GET /stat HTTP/1.1" 200 1289 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [28/Feb/2025:14:23:36 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [28/Feb/2025:14:23:39 -0500] "GET /stat HTTP/1.1" 200 1289 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [28/Feb/2025:14:24:19 -0500] "GET /stat HTTP/1.1" 200 1522 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [28/Feb/2025:14:26:25 -0500] PUBLISH "live" "gopro" "" - 364908071 529 "" "" (15m 48s)
+192.168.1.177 [28/Feb/2025:15:09:39 -0500] PUBLISH "live" "gopro" "" - 211142400 529 "" "" (9m 10s)
+127.0.0.1 - - [28/Feb/2025:15:54:38 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [28/Feb/2025:15:54:39 -0500] "GET /stat HTTP/1.1" 200 534 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [28/Feb/2025:15:56:22 -0500] "GET /stat HTTP/1.1" 200 1469 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [28/Feb/2025:15:57:40 -0500] PUBLISH "live" "gopro" "" - 29828610 547 "" "" (1m 21s)
+192.168.1.177 [28/Feb/2025:16:00:47 -0500] PUBLISH "live" "gopro" "" - 65926707 427 "" "" (1m 9s)
+127.0.0.1 - - [28/Feb/2025:19:18:24 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [28/Feb/2025:19:18:28 -0500] "GET /stat HTTP/1.1" 200 1518 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [28/Feb/2025:19:43:42 -0500] PUBLISH "live" "gopro" "" - 1062394018 427 "" "" (30m 49s)
+127.0.0.1 - - [01/Mar/2025:13:47:07 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [01/Mar/2025:13:47:31 -0500] "GET /stat HTTP/1.1" 200 536 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [01/Mar/2025:13:47:31 -0500] "GET /stat.xsl HTTP/1.1" 304 0 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [01/Mar/2025:14:03:40 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [01/Mar/2025:14:03:41 -0500] "GET /stat HTTP/1.1" 200 1522 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [01/Mar/2025:14:04:43 -0500] "GET /stat HTTP/1.1" 200 534 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [01/Mar/2025:14:05:20 -0500] "GET /stat HTTP/1.1" 200 1252 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [01/Mar/2025:14:05:21 -0500] "GET /stat HTTP/1.1" 200 1481 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [01/Mar/2025:14:32:58 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [01/Mar/2025:14:33:00 -0500] "GET /stat HTTP/1.1" 200 1532 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [01/Mar/2025:14:34:28 -0500] PUBLISH "live" "gopro" "" - 1764988675 427 "" "" (29m 17s)
+192.168.1.177 [01/Mar/2025:14:37:30 -0500] PUBLISH "live" "gopro" "" - 64587699 529 "" "" (2m 10s)
+127.0.0.1 - - [01/Mar/2025:14:41:41 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [01/Mar/2025:14:55:23 -0500] PUBLISH "live" "gopro" "" - 1021324925 445 "" "" (17m 2s)
+192.168.1.52 [01/Mar/2025:15:56:22 -0500] PUBLISH "live" "gopro" "" - 51944626 529 "" "" (55s)
+192.168.1.52 [01/Mar/2025:17:19:39 -0500] PUBLISH "live" "gopro" "" - 43382537 529 "" "" (1m 28s)
+192.168.1.177 [01/Mar/2025:17:58:49 -0500] PUBLISH "live" "gopro" "" - 780292436 529 "" "" (25m 26s)
+192.168.1.177 [01/Mar/2025:23:45:32 -0500] PUBLISH "live" "gopro" "" - 742179970 445 "" "" (24m 14s)
+127.0.0.1 - - [02/Mar/2025:15:47:06 -0500] "GET /stat HTTP/1.1" 200 1268 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:15:47:06 -0500] "GET /stat.xsl HTTP/1.1" 304 0 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:15:47:07 -0500] "GET /stat HTTP/1.1" 200 1269 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:15:47:08 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:15:47:10 -0500] "GET /stat HTTP/1.1" 200 1269 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:15:47:11 -0500] "GET /stat HTTP/1.1" 200 1268 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:15:47:20 -0500] "GET /stat HTTP/1.1" 200 1270 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:15:47:34 -0500] "GET /stat HTTP/1.1" 200 534 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:15:47:36 -0500] "GET /stat HTTP/1.1" 200 534 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:15:47:50 -0500] "GET /stat HTTP/1.1" 200 535 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:15:48:20 -0500] "GET /stat HTTP/1.1" 200 1241 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:15:48:22 -0500] "GET /stat HTTP/1.1" 200 1239 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:15:48:23 -0500] "GET /stat HTTP/1.1" 200 1240 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:15:48:24 -0500] "GET /stat HTTP/1.1" 200 1240 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [02/Mar/2025:16:05:02 -0500] PUBLISH "live" "gopro" "" - 272479208 529 "" "" (14m 5s)
+192.168.1.177 [02/Mar/2025:16:33:12 -0500] PUBLISH "live" "gopro" "" - 151651614 427 "" "" (5m 0s)
+127.0.0.1 [02/Mar/2025:16:36:05 -0500] PLAY "live" "gopro" "" - 433 4015521 "" "LNX 9,0,124,2" (51s)
+127.0.0.1 [02/Mar/2025:16:37:26 -0500] PLAY "live" "gopro" "" - 378 1763902 "" "LNX 9,0,124,2" (11s)
+192.168.1.177 [02/Mar/2025:16:37:34 -0500] PUBLISH "live" "gopro" "" - 54820245 427 "" "" (1m 51s)
+127.0.0.1 [02/Mar/2025:16:48:50 -0500] PLAY "live" "gopro" "" - 412 1618016 "" "LNX 9,0,124,2" (3s)
+127.0.0.1 [02/Mar/2025:16:49:01 -0500] PLAY "live" "gopro" "" - 412 1544754 "" "LNX 9,0,124,2" (3s)
+127.0.0.1 [02/Mar/2025:16:51:30 -0500] PLAY "live" "gopro" "" - 428 32710400 "" "LNX 9,0,124,2" (1m 27s)
+127.0.0.1 [02/Mar/2025:16:52:18 -0500] PLAY "live" "gopro" "" - 412 1655410 "" "LNX 9,0,124,2" (3s)
+192.168.1.177 [02/Mar/2025:16:52:25 -0500] PUBLISH "live" "gopro" "" - 111606208 529 "" "" (3m 41s)
+127.0.0.1 [02/Mar/2025:17:08:06 -0500] PLAY "live" "gopro" "" - 546 5258445 "" "LNX 9,0,124,2" (1m 22s)
+127.0.0.1 [02/Mar/2025:17:08:21 -0500] PLAY "live" "gopro" "" - 378 4282488 "" "LNX 9,0,124,2" (9s)
+127.0.0.1 [02/Mar/2025:17:08:33 -0500] PLAY "live" "gopro" "" - 378 3066065 "" "LNX 9,0,124,2" (6s)
+127.0.0.1 [02/Mar/2025:17:10:57 -0500] PLAY "live" "gopro" "" - 370 4197597 "" "LNX 9,0,124,2" (22s)
+127.0.0.1 [02/Mar/2025:17:12:00 -0500] PLAY "live" "gopro" "" - 370 4267756 "" "LNX 9,0,124,2" (22s)
+127.0.0.1 [02/Mar/2025:17:13:14 -0500] PLAY "live" "gopro" "" - 370 8344225 "" "LNX 9,0,124,2" (31s)
+127.0.0.1 [02/Mar/2025:17:13:53 -0500] PLAY "live" "gopro" "" - 378 3204065 "" "LNX 9,0,124,2" (6s)
+127.0.0.1 [02/Mar/2025:17:14:06 -0500] PLAY "live" "gopro" "" - 378 4037133 "" "LNX 9,0,124,2" (8s)
+127.0.0.1 [02/Mar/2025:17:14:20 -0500] PLAY "live" "gopro" "" - 378 4248901 "" "LNX 9,0,124,2" (8s)
+127.0.0.1 [02/Mar/2025:17:14:35 -0500] PLAY "live" "gopro" "" - 378 4811774 "" "LNX 9,0,124,2" (9s)
+127.0.0.1 [02/Mar/2025:17:14:49 -0500] PLAY "live" "gopro" "" - 378 4358917 "" "LNX 9,0,124,2" (8s)
+127.0.0.1 [02/Mar/2025:17:15:03 -0500] PLAY "live" "gopro" "" - 378 4370600 "" "LNX 9,0,124,2" (8s)
+127.0.0.1 [02/Mar/2025:17:15:40 -0500] PLAY "live" "gopro" "" - 370 8342414 "" "LNX 9,0,124,2" (31s)
+127.0.0.1 [02/Mar/2025:17:16:06 -0500] PLAY "live" "gopro" "" - 378 4075935 "" "LNX 9,0,124,2" (8s)
+127.0.0.1 [02/Mar/2025:17:16:23 -0500] PLAY "live" "gopro" "" - 378 4219132 "" "LNX 9,0,124,2" (10s)
+127.0.0.1 - - [02/Mar/2025:17:19:56 -0500] "GET /stat HTTP/1.1" 200 1517 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:17:19:57 -0500] "GET /stat HTTP/1.1" 200 1519 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:17:19:58 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:17:19:59 -0500] "GET /stat HTTP/1.1" 200 1519 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:17:20:36 -0500] "GET /stat HTTP/1.1" 200 1520 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [02/Mar/2025:17:21:16 -0500] PUBLISH "live" "gopro" "" - 40976950 409 "" "" (2m 11s)
+127.0.0.1 - - [02/Mar/2025:17:22:37 -0500] "GET /stat HTTP/1.1" 200 1519 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [02/Mar/2025:17:23:26 -0500] PUBLISH "live" "gopro" "" - 38303833 427 "" "" (1m 18s)
+127.0.0.1 - - [02/Mar/2025:17:26:05 -0500] "GET /stat HTTP/1.1" 200 1528 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [02/Mar/2025:17:26:09 -0500] "GET /stat HTTP/1.1" 200 1528 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [02/Mar/2025:17:26:35 -0500] PUBLISH "live" "gopro" "" - 51304098 427 "" "" (2m 42s)
+127.0.0.1 [02/Mar/2025:17:53:18 -0500] PLAY "live" "gopro" "" - 1210 553293 "" "LNX 9,0,124,2" (5m 44s)
+127.0.0.1 [02/Mar/2025:17:53:26 -0500] PLAY "live" "gopro" "" - 412 661607 "" "LNX 9,0,124,2" (2s)
+127.0.0.1 [02/Mar/2025:17:53:35 -0500] PLAY "live" "gopro" "" - 378 704708 "" "LNX 9,0,124,2" (2s)
+127.0.0.1 [02/Mar/2025:17:53:43 -0500] PLAY "live" "gopro" "" - 412 800773 "" "LNX 9,0,124,2" (2s)
+127.0.0.1 [02/Mar/2025:17:53:51 -0500] PLAY "live" "gopro" "" - 412 825307 "" "LNX 9,0,124,2" (2s)
+127.0.0.1 [02/Mar/2025:17:54:00 -0500] PLAY "live" "gopro" "" - 378 952693 "" "LNX 9,0,124,2" (3s)
+192.168.243.112 [02/Mar/2025:18:16:33 -0500] PUBLISH "live" "gopro" "" - 446952103 427 "" "" (23m 17s)
+127.0.0.1 [02/Mar/2025:18:17:28 -0500] PLAY "live" "gopro" "" - 1805 447857998 "" "LNX 9,0,124,2" (23m 23s)
+192.168.243.112 [02/Mar/2025:18:26:11 -0500] PUBLISH "live" "gopro" "" - 280973819 529 "" "" (9m 22s)
+192.168.243.112 [02/Mar/2025:19:25:10 -0500] PUBLISH "live" "gopro" "" - 294690400 529 "" "" (14m 7s)
+127.0.0.1 [02/Mar/2025:20:33:41 -0500] PLAY "live" "gopro" "" - 601 1150267 "" "LNX 9,0,124,2" (1m 23s)
+127.0.0.1 [02/Mar/2025:20:33:50 -0500] PLAY "live" "gopro" "" - 412 1163936 "" "LNX 9,0,124,2" (2s)
+127.0.0.1 [02/Mar/2025:20:33:58 -0500] PLAY "live" "gopro" "" - 412 1316638 "" "LNX 9,0,124,2" (2s)
+127.0.0.1 [02/Mar/2025:20:34:05 -0500] PLAY "live" "gopro" "" - 378 1090241 "" "LNX 9,0,124,2" (2s)
+127.0.0.1 [02/Mar/2025:20:34:14 -0500] PLAY "live" "gopro" "" - 378 1647891 "" "LNX 9,0,124,2" (3s)
+127.0.0.1 [02/Mar/2025:20:34:23 -0500] PLAY "live" "gopro" "" - 412 1355938 "" "LNX 9,0,124,2" (2s)
+127.0.0.1 [02/Mar/2025:20:34:31 -0500] PLAY "live" "gopro" "" - 412 1129134 "" "LNX 9,0,124,2" (2s)
+127.0.0.1 [02/Mar/2025:20:34:38 -0500] PLAY "live" "gopro" "" - 412 1098194 "" "LNX 9,0,124,2" (2s)
+127.0.0.1 [02/Mar/2025:20:34:47 -0500] PLAY "live" "gopro" "" - 412 1340064 "" "LNX 9,0,124,2" (2s)
+192.168.243.112 [02/Mar/2025:20:37:36 -0500] PUBLISH "live" "gopro" "" - 119458157 529 "" "" (3m 57s)
+192.168.243.112 [02/Mar/2025:20:47:31 -0500] PUBLISH "live" "gopro" "" - 180144631 529 "" "" (9m 20s)
+127.0.0.1 - - [04/Mar/2025:09:21:06 -0500] "GET /stat HTTP/1.1" 200 1268 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [04/Mar/2025:09:21:07 -0500] "GET /stat.xsl HTTP/1.1" 200 11765 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [04/Mar/2025:09:21:07 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [04/Mar/2025:09:21:09 -0500] "GET /stat HTTP/1.1" 200 1268 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.52 [04/Mar/2025:09:23:24 -0500] PUBLISH "live" "gopro" "" - 25346892 529 "" "" (44s)
+127.0.0.1 [04/Mar/2025:09:25:20 -0500] PUBLISH "live" "gopro" "" - 10600940 409 "" "FMLE/3.0 (compatible; IRLPRO/nu" (16s)
+127.0.0.1 [04/Mar/2025:09:28:33 -0500] PUBLISH "live" "gopro" "" - 29672467 409 "" "FMLE/3.0 (compatible; IRLPRO/nu" (1m 11s)
+192.168.1.52 [04/Mar/2025:09:31:37 -0500] PUBLISH "live" "gopro" "" - 16818184 547 "" "" (30s)
+192.168.1.52 [04/Mar/2025:09:41:36 -0500] PUBLISH "live" "gopro" "" - 152293497 529 "" "" (4m 2s)
+192.168.77.112 [04/Mar/2025:09:48:03 -0500] PUBLISH "live" "gopro" "" - 93909013 427 "" "" (4m 55s)
+192.168.1.177 [06/Mar/2025:17:43:44 -0500] PUBLISH "live" "gopro" "" - 883498560 427 "" "" (45m 34s)
+192.168.1.177 [08/Mar/2025:09:32:48 -0500] PUBLISH "live" "gopro" "" - 953287333 409 "" "" (31m 5s)
+192.168.1.177 [08/Mar/2025:10:05:09 -0500] PUBLISH "live" "gopro" "" - 555097006 529 "" "" (18m 7s)
+192.168.1.177 [09/Mar/2025:14:46:17 -0500] PUBLISH "live" "gopro" "" - 147530522 529 "" "" (2m 29s)
+192.168.1.177 [09/Mar/2025:15:20:41 -0500] PUBLISH "live" "gopro" "" - 59648731 529 "" "" (1m 3s)
+192.168.1.177 [09/Mar/2025:15:42:14 -0500] PUBLISH "live" "gopro" "" - 760586106 427 "" "" (12m 33s)
+192.168.1.177 [09/Mar/2025:16:27:58 -0500] PUBLISH "live" "gopro" "" - 434948879 427 "" "" (14m 13s)
+192.168.1.177 [10/Mar/2025:13:36:17 -0500] PUBLISH "live" "gopro" "" - 24204057 529 "" "" (28s)
+192.168.1.177 [10/Mar/2025:13:47:59 -0500] PUBLISH "live" "gopro" "" - 356646674 529 "" "" (5m 55s)
+192.168.1.177 [10/Mar/2025:14:06:11 -0500] PUBLISH "live" "gopro" "" - 821581558 529 "" "" (13m 33s)
+192.168.1.177 [10/Mar/2025:14:26:34 -0500] PUBLISH "live" "gopro" "" - 285602561 427 "" "" (4m 45s)
+127.0.0.1 - - [10/Mar/2025:14:37:14 -0500] "GET /stat HTTP/1.1" 200 1269 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:37:15 -0500] "GET /stat HTTP/1.1" 200 1268 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:37:15 -0500] "GET /stat.xsl HTTP/1.1" 304 0 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:37:16 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:37:20 -0500] "GET /stat HTTP/1.1" 200 1270 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [10/Mar/2025:14:37:36 -0500] PUBLISH "live" "gopro" "" - 66288876 427 "" "" (1m 9s)
+127.0.0.1 - - [10/Mar/2025:14:38:11 -0500] "GET /stat HTTP/1.1" 200 1244 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:38:23 -0500] "GET /stat HTTP/1.1" 200 1272 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:38:25 -0500] "GET /stat HTTP/1.1" 200 1271 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:39:13 -0500] "GET /stat HTTP/1.1" 200 1271 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [10/Mar/2025:14:39:23 -0500] PUBLISH "live" "gopro" "" - 77432502 529 "" "" (1m 20s)
+127.0.0.1 - - [10/Mar/2025:14:39:49 -0500] "GET /stat HTTP/1.1" 200 1246 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:39:51 -0500] "GET /stat HTTP/1.1" 200 1247 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:41:05 -0500] "GET /stat HTTP/1.1" 200 1242 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:41:07 -0500] "GET /stat HTTP/1.1" 200 1240 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:41:09 -0500] "GET /stat HTTP/1.1" 200 1241 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:41:11 -0500] "GET /stat HTTP/1.1" 200 1243 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:41:15 -0500] "GET /stat HTTP/1.1" 200 1271 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:41:59 -0500] "GET /stat HTTP/1.1" 200 1268 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [10/Mar/2025:14:42:14 -0500] PUBLISH "live" "gopro" "" - 70468780 529 "" "" (1m 13s)
+127.0.0.1 - - [10/Mar/2025:14:42:59 -0500] "GET /stat HTTP/1.1" 200 1244 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:43:01 -0500] "GET /stat HTTP/1.1" 200 1244 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [10/Mar/2025:14:43:09 -0500] PUBLISH "live" "gopro" "" - 10523252 529 "" "" (14s)
+127.0.0.1 - - [10/Mar/2025:14:43:39 -0500] "GET /stat HTTP/1.1" 200 1244 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [10/Mar/2025:14:43:48 -0500] PUBLISH "live" "gopro" "" - 9001544 529 "" "" (13s)
+127.0.0.1 - - [10/Mar/2025:14:56:23 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [10/Mar/2025:14:56:27 -0500] "GET /stat HTTP/1.1" 200 1273 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [10/Mar/2025:14:56:39 -0500] PUBLISH "live" "gopro" "" - 48716248 529 "" "" (52s)
+192.168.1.177 [10/Mar/2025:15:17:06 -0500] PUBLISH "live" "gopro" "" - 17996729 427 "" "" (21s)
+192.168.1.177 [10/Mar/2025:20:36:57 -0500] PUBLISH "live" "gopro" "" - 10810333 529 "" "" (15s)
+192.168.1.177 [10/Mar/2025:20:53:32 -0500] PUBLISH "live" "gopro" "" - 445181250 409 "" "" (7m 23s)
+192.168.1.177 [10/Mar/2025:21:44:50 -0500] PUBLISH "live" "gopro" "" - 929443310 529 "" "" (15m 31s)
+127.0.0.1 - - [12/Mar/2025:10:12:55 -0500] "GET /stat HTTP/1.1" 200 1316 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:10:12:55 -0500] "GET /stat.xsl HTTP/1.1" 304 0 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:10:12:56 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:10:12:58 -0500] "GET /stat HTTP/1.1" 200 1316 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 [12/Mar/2025:10:13:06 -0500] PUBLISH "live" "gopro" "" - 34403817 409 "" "FMLE/3.0 (compatible; IRLPRO/nu" (46s)
+127.0.0.1 - - [12/Mar/2025:10:13:09 -0500] "GET /stat HTTP/1.1" 200 549 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:10:13:11 -0500] "GET /stat HTTP/1.1" 200 549 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:10:17:09 -0500] "GET /stat HTTP/1.1" 200 1316 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:10:17:10 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:10:17:12 -0500] "GET /stat HTTP/1.1" 200 1318 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 [12/Mar/2025:10:18:16 -0500] PUBLISH "live" "gopro" "" - 64677221 409 "" "FMLE/3.0 (compatible; IRLPRO/nu" (1m 18s)
+127.0.0.1 - - [12/Mar/2025:12:57:09 -0500] "GET /stat HTTP/1.1" 200 1272 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:12:57:11 -0500] "GET /stat HTTP/1.1" 200 1270 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:12:57:15 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:12:57:18 -0500] "GET /stat HTTP/1.1" 200 1272 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:12:58:21 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:13:00:51 -0500] "GET /stat HTTP/1.1" 200 1513 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:13:04:27 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.238.112 [12/Mar/2025:13:05:08 -0500] PUBLISH "live" "gopro" "" - 295701784 529 "" "" (5m 5s)
+127.0.0.1 - - [12/Mar/2025:19:10:17 -0500] "GET /stat HTTP/1.1" 200 1301 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:10:18 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:10:20 -0500] "GET /stat HTTP/1.1" 200 1521 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:10:23 -0500] "GET /stat HTTP/1.1" 200 1300 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:10:25 -0500] "GET /stat HTTP/1.1" 200 1300 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:10:28 -0500] "GET /stat HTTP/1.1" 200 1299 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:10:31 -0500] "GET /stat HTTP/1.1" 200 1301 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:10:37 -0500] "GET /stat HTTP/1.1" 200 1288 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:10:41 -0500] "GET /stat HTTP/1.1" 200 1289 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:10:42 -0500] "GET /stat HTTP/1.1" 200 1290 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:10:43 -0500] "GET /stat HTTP/1.1" 200 1289 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:10:44 -0500] "GET /stat HTTP/1.1" 200 1289 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:10:45 -0500] "GET /stat HTTP/1.1" 200 1289 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:11:54 -0500] "GET /stat HTTP/1.1" 200 1520 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:11:58 -0500] "GET /stat HTTP/1.1" 200 1518 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:12:06 -0500] "GET /stat HTTP/1.1" 200 1520 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:12:34 -0500] "GET /stat HTTP/1.1" 200 1518 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:12:39 -0500] "GET /stat HTTP/1.1" 200 1522 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:13:57 -0500] "GET /stat HTTP/1.1" 200 1522 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:13:59 -0500] "GET /stat HTTP/1.1" 200 1522 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:14:01 -0500] "GET /stat HTTP/1.1" 200 1524 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:14:05 -0500] "GET /stat HTTP/1.1" 200 1522 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:19:19:27 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [12/Mar/2025:19:30:58 -0500] PUBLISH "live" "gopro" "" - 1866165066 529 "" "" (30m 41s)
+127.0.0.1 - - [12/Mar/2025:22:28:20 -0500] "GET /stat HTTP/1.1" 200 1510 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:22:28:21 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [12/Mar/2025:22:28:22 -0500] "GET /stat HTTP/1.1" 200 1510 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [12/Mar/2025:22:36:23 -0500] PUBLISH "live" "gopro" "" - 496798663 529 "" "" (8m 17s)
+192.168.1.177 [12/Mar/2025:22:43:04 -0500] PUBLISH "live" "gopro" "" - 356683361 529 "" "" (5m 55s)
+192.168.1.177 [13/Mar/2025:19:29:43 -0500] PUBLISH "live" "gopro" "" - 10324696 529 "" "" (14s)
+192.168.1.177 [13/Mar/2025:19:53:55 -0500] PUBLISH "live" "gopro" "" - 721537726 529 "" "" (12m 10s)
+192.168.238.112 [14/Mar/2025:08:44:19 -0500] PUBLISH "live" "gopro" "" - 60762728 409 "" "" (1m 0s)
+192.168.238.112 [14/Mar/2025:08:45:42 -0500] PUBLISH "live" "gopro" "" - 78630283 409 "" "" (1m 17s)
+192.168.238.112 [14/Mar/2025:08:46:35 -0500] PUBLISH "live" "gopro" "" - 51602836 409 "" "" (51s)
+192.168.238.112 [14/Mar/2025:08:49:08 -0500] PUBLISH "live" "gopro" "" - 148602334 409 "" "" (2m 27s)
+192.168.238.112 [14/Mar/2025:08:49:33 -0500] PUBLISH "live" "gopro" "" - 23069674 409 "" "" (23s)
+192.168.238.112 [14/Mar/2025:08:52:23 -0500] PUBLISH "live" "gopro" "" - 166448760 409 "" "" (2m 44s)
+192.168.238.112 [14/Mar/2025:08:52:50 -0500] PUBLISH "live" "gopro" "" - 21261527 529 "" "" (25s)
+192.168.1.177 [15/Mar/2025:10:44:58 -0500] PUBLISH "live" "gopro" "" - 36706435 529 "" "" (40s)
+192.168.1.177 [15/Mar/2025:10:46:29 -0500] PUBLISH "live" "gopro" "" - 5039001 529 "" "" (9s)
+127.0.0.1 - - [15/Mar/2025:11:34:33 -0500] "GET /stat HTTP/1.1" 200 1530 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [15/Mar/2025:11:34:34 -0500] "GET /stat HTTP/1.1" 200 1530 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [15/Mar/2025:11:34:35 -0500] "GET /stat.xsl HTTP/1.1" 304 0 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [15/Mar/2025:11:34:36 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [15/Mar/2025:11:34:37 -0500] "GET /stat HTTP/1.1" 200 1530 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [15/Mar/2025:11:34:40 -0500] "GET /stat HTTP/1.1" 200 1530 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36"
+127.0.0.1 - - [15/Mar/2025:11:37:13 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost:8080/stat" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Mobile Safari/537.36"
+192.168.1.177 [15/Mar/2025:12:05:04 -0500] PUBLISH "live" "gopro" "" - 267823094 529 "" "" (1h 10m 39s)

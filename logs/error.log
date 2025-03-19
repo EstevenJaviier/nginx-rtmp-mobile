@@ -1,0 +1,219 @@
+2025/02/22 22:56:25 [error] 24656#0: *1 open() "/data/data/com.termux/files/home/nginx/html/stat.xsl" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/22 22:56:26 [error] 24656#0: *1 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/22 22:56:27 [error] 24656#0: *1 open() "/data/data/com.termux/files/home/nginx/html/stat.xsl" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /stat.xsl HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/22 22:56:54 [notice] 24955#0: signal process started
+2025/02/22 23:01:46 [error] 27120#0: *1 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/22 23:07:18 [emerg] 30231#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/22 23:07:18 [emerg] 30231#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/22 23:07:18 [emerg] 30231#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/22 23:07:18 [emerg] 30231#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/22 23:07:18 [emerg] 30231#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/22 23:07:18 [emerg] 30231#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/22 23:07:18 [emerg] 30231#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/22 23:07:18 [emerg] 30231#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/22 23:07:18 [emerg] 30231#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/22 23:07:18 [emerg] 30231#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/22 23:07:18 [emerg] 30231#0: still could not bind()
+2025/02/22 23:13:40 [emerg] 4496#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/22 23:13:40 [emerg] 4496#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/22 23:13:40 [emerg] 4496#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/22 23:13:40 [emerg] 4496#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/22 23:13:40 [emerg] 4496#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/22 23:13:40 [emerg] 4496#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/22 23:13:40 [emerg] 4496#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/22 23:13:40 [emerg] 4496#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/22 23:13:40 [emerg] 4496#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/22 23:13:40 [emerg] 4496#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/22 23:13:40 [emerg] 4496#0: still could not bind()
+2025/02/22 23:29:50 [alert] 30742#0: *3 recv() failed (103: Software caused connection abort), client: 192.168.1.52, server: 0.0.0.0:1935
+2025/02/22 23:31:52 [alert] 30742#0: unknown process 12120 exited on signal 9
+2025/02/22 23:33:47 [error] 30742#0: *28 live: drop idle publisher, client: 192.168.1.52, server: 0.0.0.0:1935
+2025/02/22 23:33:47 [alert] 30742#0: unknown process 14014 exited on signal 9
+2025/02/22 23:33:48 [error] 30742#0: *32 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/22 23:36:21 [notice] 16345#0: signal process started
+2025/02/22 23:43:57 [alert] 30742#0: unknown process 15883 exited on signal 9
+2025/02/22 23:46:26 [error] 16346#0: *52 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/22 23:51:38 [notice] 22265#0: signal process started
+2025/02/23 00:27:14 [emerg] 8800#0: "ping" directive is not allowed here in /data/data/com.termux/files/home/nginx/conf/nginx.conf:34
+2025/02/23 00:41:36 [emerg] 13338#0: "ping" directive is not allowed here in /data/data/com.termux/files/home/nginx/conf/nginx.conf:34
+2025/02/23 07:37:20 [emerg] 13680#0: host not found in url "hellomundo.servebeer.com:1935/live/gopro" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:27
+2025/02/23 07:42:59 [notice] 15455#0: signal process started
+2025/02/23 07:42:59 [alert] 15455#0: kill(17821, 1) failed (3: No such process)
+2025/02/23 08:33:16 [emerg] 3640#0: invalid port in url "rtmps://live-api-s.facebook.com:443/rtmp/FB-3552357145069537-0-Ab36kcqJ8c-Gp0DHpgQzUpsG" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:27
+2025/02/23 10:51:25 [emerg] 24628#0: invalid port in url "rtmps://live-api-s.facebook.com:443/rtmp/FB-3552357145069537-0-Ab36kcqJ8c-Gp0DHpgQzUpsG" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:27
+2025/02/23 10:52:51 [emerg] 25922#0: invalid port in url "rtmps://live-api-s.facebook.com:443/rtmp/FB-3552357145069537-0-Ab36kcqJ8c-Gp0DHpgQzUpsG" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:27
+2025/02/23 10:54:11 [notice] 26049#0: signal process started
+2025/02/23 10:54:11 [alert] 26049#0: kill(32735, 1) failed (3: No such process)
+2025/02/23 18:03:40 [notice] 4983#0: signal process started
+2025/02/23 20:31:36 [notice] 29141#0: signal process started
+2025/02/23 20:31:41 [emerg] 29148#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/23 20:31:41 [emerg] 29148#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/23 20:31:41 [emerg] 29148#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/23 20:31:41 [emerg] 29148#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/23 20:31:41 [emerg] 29148#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/23 20:31:41 [emerg] 29148#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/23 20:31:41 [emerg] 29148#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/23 20:31:41 [emerg] 29148#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/23 20:31:41 [emerg] 29148#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/23 20:31:41 [emerg] 29148#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/23 20:31:41 [emerg] 29148#0: still could not bind()
+2025/02/23 20:31:56 [notice] 29203#0: signal process started
+2025/02/23 20:32:11 [error] 29220#0: *1 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/24 09:45:06 [emerg] 24630#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 09:45:06 [emerg] 24630#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 09:45:06 [emerg] 24630#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 09:45:06 [emerg] 24630#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 09:45:06 [emerg] 24630#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 09:45:06 [emerg] 24630#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 09:45:06 [emerg] 24630#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 09:45:06 [emerg] 24630#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 09:45:06 [emerg] 24630#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 09:45:06 [emerg] 24630#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 09:45:06 [emerg] 24630#0: still could not bind()
+2025/02/24 09:48:32 [emerg] 25346#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 09:48:32 [emerg] 25346#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 09:48:32 [emerg] 25346#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 09:48:32 [emerg] 25346#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 09:48:32 [emerg] 25346#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 09:48:32 [emerg] 25346#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 09:48:32 [emerg] 25346#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 09:48:32 [emerg] 25346#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 09:48:32 [emerg] 25346#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 09:48:32 [emerg] 25346#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 09:48:32 [emerg] 25346#0: still could not bind()
+2025/02/24 09:50:11 [error] 17956#0: *9 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/24 09:52:36 [notice] 28038#0: signal process started
+2025/02/24 18:33:12 [emerg] 4783#0: host not found in url "hellomundo.servebeer.com:1935/live/gopro" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:28
+2025/02/24 18:33:44 [emerg] 5798#0: host not found in url "hellomundo.servebeer.com:1935/live/gopro" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:28
+2025/02/24 18:34:03 [emerg] 5870#0: host not found in url "hellomundo.servebeer.com:1935/live/gopro" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:28
+2025/02/24 18:35:41 [notice] 6301#0: signal process started
+2025/02/24 18:35:41 [alert] 6301#0: kill(28779, 1) failed (3: No such process)
+2025/02/24 18:35:46 [notice] 6319#0: signal process started
+2025/02/24 18:35:46 [alert] 6319#0: kill(28779, 1) failed (3: No such process)
+2025/02/24 18:38:56 [notice] 9261#0: signal process started
+2025/02/24 19:38:07 [emerg] 1810#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 19:38:07 [emerg] 1810#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 19:38:07 [emerg] 1810#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 19:38:07 [emerg] 1810#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 19:38:07 [emerg] 1810#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 19:38:07 [emerg] 1810#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 19:38:07 [emerg] 1810#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 19:38:07 [emerg] 1810#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 19:38:07 [emerg] 1810#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/02/24 19:38:07 [emerg] 1810#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/02/24 19:38:07 [emerg] 1810#0: still could not bind()
+2025/02/26 19:12:00 [emerg] 12170#0: invalid port in url "rtmps://live-api-s.facebook.com:443/rtmp/FB-3555241078114477-0-Ab1gfPdXjCMa6lCL7N6TI6mw" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:27
+2025/02/26 19:12:19 [notice] 12683#0: signal process started
+2025/02/26 19:13:04 [error] 12688#0: *21 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/26 19:13:16 [notice] 14974#0: signal process started
+2025/02/26 19:16:31 [notice] 16652#0: signal process started
+2025/02/26 19:16:48 [error] 16657#0: *26 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/26 19:28:33 [error] 16657#0: *35 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/26 19:35:09 [error] 16657#0: *36 live: drop idle publisher, client: 192.168.1.177, server: 0.0.0.0:1935
+2025/02/27 21:15:32 [emerg] 23928#0: the invalid "ssl" parameter in /data/data/com.termux/files/home/nginx/conf/nginx.conf:18
+2025/02/27 21:16:01 [emerg] 24005#0: "ssl_certificate" directive is not allowed here in /data/data/com.termux/files/home/nginx/conf/nginx.conf:19
+2025/02/28 07:58:43 [emerg] 7682#0: "ssl_certificate" directive is not allowed here in /data/data/com.termux/files/home/nginx/conf/nginx.conf:19
+2025/02/28 08:04:52 [notice] 10718#0: signal process started
+2025/02/28 08:06:11 [error] 10723#0: *17 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/28 08:12:25 [notice] 13354#0: signal process started
+2025/02/28 08:13:33 [notice] 13857#0: signal process started
+2025/02/28 08:28:57 [notice] 15351#0: signal process started
+2025/02/28 14:23:36 [error] 12081#0: *19 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/28 14:52:56 [emerg] 19038#0: host not found in url "hellomundo.servebeer.com:1935/live/gopro" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:28
+2025/02/28 14:53:13 [emerg] 19094#0: host not found in url "hellomundo.servebeer.com:1935/live/gopro" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:28
+2025/02/28 14:55:59 [emerg] 22020#0: host not found in url "hellomundo.servebeer.com:1935/live/gopro" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:28
+2025/02/28 14:56:20 [emerg] 22069#0: host not found in url "hellomundo.servebeer.com:1935/live/gopro" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:28
+2025/02/28 14:57:24 [emerg] 23688#0: host not found in url "hellomundo.servebeer.com:1935/live/gopro" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:28
+2025/02/28 14:57:36 [emerg] 24140#0: host not found in url "hellomundo.servebeer.com:1935/live/gopro" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:28
+2025/02/28 15:41:39 [emerg] 6535#0: unknown directive "in_buffer" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:34
+2025/02/28 15:45:34 [emerg] 6988#0: "buflen" directive is not allowed here in /data/data/com.termux/files/home/nginx/conf/nginx.conf:37
+2025/02/28 15:47:26 [emerg] 7415#0: unknown directive "max_queue" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:37
+2025/02/28 15:51:24 [emerg] 7867#0: unknown directive "max_queue" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:30
+2025/02/28 15:52:50 [emerg] 7909#0: unknown directive "max_queue" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:30
+2025/02/28 15:53:30 [emerg] 8077#0: unknown directive "max_queue" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:17
+2025/02/28 15:53:45 [emerg] 8243#0: unknown directive "max_queue" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:15
+2025/02/28 15:54:04 [notice] 8253#0: signal process started
+2025/02/28 15:54:38 [error] 8258#0: *1 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/02/28 19:18:24 [error] 7874#0: *5 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/01 13:47:07 [error] 26427#0: *4 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2025/03/01 14:03:40 [error] 26427#0: *11 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/01 14:04:13 [notice] 10228#0: signal process started
+2025/03/01 14:32:58 [error] 10549#0: *14 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/01 14:41:41 [error] 10549#0: *25 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/01 23:13:15 [notice] 11111#0: signal process started
+2025/03/02 15:42:09 [notice] 27640#0: signal process started
+2025/03/02 15:47:08 [error] 27648#0: *5 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/02 15:47:26 [notice] 31898#0: signal process started
+2025/03/02 15:49:59 [notice] 3878#0: signal process started
+2025/03/02 16:46:37 [notice] 7021#0: signal process started
+2025/03/02 16:53:05 [notice] 9936#0: signal process started
+2025/03/02 17:19:58 [error] 5291#0: *3 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/02 17:21:16 [error] 5291#0: *1 live: drop idle publisher, client: 192.168.1.177, server: 0.0.0.0:1935
+2025/03/02 17:38:04 [notice] 15701#0: signal process started
+2025/03/02 18:16:33 [error] 15704#0: *2 live: drop idle publisher, client: 192.168.243.112, server: 0.0.0.0:1935
+2025/03/02 20:37:17 [notice] 7047#0: signal process started
+2025/03/04 09:16:54 [notice] 7566#0: signal process started
+2025/03/04 09:21:07 [error] 7572#0: *4 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/04 09:21:28 [notice] 8809#0: signal process started
+2025/03/04 09:48:03 [error] 12167#0: *7 live: drop idle publisher, client: 192.168.77.112, server: 0.0.0.0:1935
+2025/03/05 23:38:15 [emerg] 4770#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/03/05 23:38:15 [emerg] 4770#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/03/05 23:38:15 [emerg] 4770#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/03/05 23:38:15 [emerg] 4770#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/03/05 23:38:15 [emerg] 4770#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/03/05 23:38:15 [emerg] 4770#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/03/05 23:38:15 [emerg] 4770#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/03/05 23:38:15 [emerg] 4770#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/03/05 23:38:15 [emerg] 4770#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/03/05 23:38:15 [emerg] 4770#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/03/05 23:38:15 [emerg] 4770#0: still could not bind()
+2025/03/08 09:32:48 [error] 11992#0: *1 live: drop idle publisher, client: 192.168.1.177, server: 0.0.0.0:1935
+2025/03/10 14:37:16 [error] 15624#0: *5 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/10 14:56:23 [error] 21467#0: *23 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/10 15:15:04 [emerg] 15240#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/03/10 15:15:04 [emerg] 15240#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/03/10 15:15:04 [emerg] 15240#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/03/10 15:15:04 [emerg] 15240#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/03/10 15:15:04 [emerg] 15240#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/03/10 15:15:04 [emerg] 15240#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/03/10 15:15:04 [emerg] 15240#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/03/10 15:15:04 [emerg] 15240#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/03/10 15:15:04 [emerg] 15240#0: bind() to 0.0.0.0:1935 failed (98: Address already in use)
+2025/03/10 15:15:04 [emerg] 15240#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2025/03/10 15:15:04 [emerg] 15240#0: still could not bind()
+2025/03/10 20:53:32 [error] 23699#0: *3 live: drop idle publisher, client: 192.168.1.177, server: 0.0.0.0:1935
+2025/03/12 10:11:51 [notice] 5259#0: signal process started
+2025/03/12 10:12:20 [crit] 5264#0: *1 record:  failed to open file '/gopro.flv' (30: Read-only file system), client: 127.0.0.1, server: 0.0.0.0:1935
+2025/03/12 10:12:56 [error] 5264#0: *4 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/12 10:16:46 [notice] 9358#0: signal process started
+2025/03/12 10:17:10 [error] 9363#0: *3 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/12 12:52:30 [emerg] 4957#0: "record_max_size" directive invalid value in /data/data/com.termux/files/home/nginx/conf/nginx.conf:39
+2025/03/12 12:53:24 [notice] 5476#0: signal process started
+2025/03/12 12:53:24 [alert] 5476#0: kill(8314, 1) failed (3: No such process)
+2025/03/12 12:57:15 [error] 5566#0: *4 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/12 12:58:21 [error] 12774#0: *5 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/12 12:59:24 [notice] 16081#0: signal process started
+2025/03/12 13:04:27 [error] 16454#0: *12 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/12 19:10:18 [error] 25640#0: *4 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/12 19:19:27 [error] 25640#0: *14 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/12 22:28:21 [error] 22119#0: *3 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/14 08:44:19 [alert] 6056#0: *1 recv() failed (103: Software caused connection abort), client: 192.168.238.112, server: 0.0.0.0:1935
+2025/03/14 08:45:42 [alert] 6056#0: *3 recv() failed (103: Software caused connection abort), client: 192.168.238.112, server: 0.0.0.0:1935
+2025/03/14 08:46:35 [alert] 6056#0: *8 recv() failed (103: Software caused connection abort), client: hellomundo.servebeer.com:1935/live/gopro, server: ngx-relay
+2025/03/14 08:46:35 [alert] 6056#0: *7 recv() failed (103: Software caused connection abort), client: 192.168.238.112, server: 0.0.0.0:1935
+2025/03/14 08:49:08 [alert] 6056#0: *9 recv() failed (103: Software caused connection abort), client: 192.168.238.112, server: 0.0.0.0:1935
+2025/03/14 08:49:33 [alert] 6056#0: *12 recv() failed (103: Software caused connection abort), client: hellomundo.servebeer.com:1935/live/gopro, server: ngx-relay
+2025/03/14 08:49:33 [alert] 6056#0: *11 recv() failed (103: Software caused connection abort), client: 192.168.238.112, server: 0.0.0.0:1935
+2025/03/14 08:52:23 [alert] 6056#0: *17 recv() failed (103: Software caused connection abort), client: hellomundo.servebeer.com:1935/live/gopro, server: ngx-relay
+2025/03/14 08:52:23 [alert] 6056#0: *13 recv() failed (103: Software caused connection abort), client: 192.168.238.112, server: 0.0.0.0:1935
+2025/03/14 17:48:37 [emerg] 5039#0: unknown directive "gop_cache" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:28
+2025/03/15 10:40:25 [emerg] 20271#0: unknown directive "gop_cache" in /data/data/com.termux/files/home/nginx/conf/nginx.conf:28
+2025/03/15 10:41:18 [emerg] 21378#0: "buflen" directive is not allowed here in /data/data/com.termux/files/home/nginx/conf/nginx.conf:41
+2025/03/15 10:41:48 [emerg] 21438#0: "out_queue" directive is not allowed here in /data/data/com.termux/files/home/nginx/conf/nginx.conf:42
+2025/03/15 10:42:08 [emerg] 21477#0: "max_message" directive is not allowed here in /data/data/com.termux/files/home/nginx/conf/nginx.conf:46
+2025/03/15 11:34:36 [error] 21507#0: *25 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/15 11:37:13 [error] 21507#0: *31 open() "/data/data/com.termux/files/home/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/stat"
+2025/03/18 14:48:26 [notice] 29828#0: signal process started
+2025/03/18 14:51:09 [notice] 3186#0: signal process started
+2025/03/18 14:53:50 [notice] 6355#0: signal process started
+2025/03/18 14:55:34 [notice] 8188#0: signal process started
